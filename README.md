@@ -1,5 +1,4 @@
 ![alt text](/assets/jellyfin-logo.png)
-# JellyFin
 
 HomeLab for hosting private media
 
